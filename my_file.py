@@ -4,6 +4,6 @@ def hi_there():
     print('Hi')
 
 def hi_there():
-    print('My name is Alicia')    
+    print('My name is Alice')    
 
 
